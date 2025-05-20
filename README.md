@@ -24,5 +24,5 @@ The `pdf-tools` directory contains scripts for working with PDF files and prepar
 * `split_pdf.sh` - splits large PDF files into smaller chunks based on word count.
 * `combine_pdf.sh` - combines multiple PDF files into chunks based on word count.
 * `pdf_process.sh` - is a comprehensive script for processing multiple PDF files, combining them into chunks based on word count and generating a manifest file, splitting large files if needed.
-* 
+
 [PDF tools README](pdf-tools/README.md)
