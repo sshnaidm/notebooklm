@@ -1,7 +1,7 @@
 #!/bin/bash
 
 input_file="$1"
-MAX_WORDS=${MAX_WORDS:-400000}
+MAX_WORDS=${MAX_WORDS:-450000}
 
 if [ -z "$input_file" ]; then
     echo "Usage: $0 <input_file>"
