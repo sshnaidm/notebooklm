@@ -1,0 +1,5 @@
+ebooklib
+beautifulsoup4
+lxml
+ocrodjvu
+playwright
